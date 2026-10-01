@@ -1,6 +1,6 @@
 # Wallpapers for Arch Linux (3840 x 2400)
 
-🩵 I love Arch Linux, so I created some wallpapers.
+:blue_heart: I love Arch Linux, so I created some wallpapers.
 
 :art: All wallpapers were created from scratch in inkscape.
 
