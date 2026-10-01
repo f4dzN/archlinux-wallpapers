@@ -1,4 +1,4 @@
-# Wallpapers for Arch Linux 4k (3840 x 2400)
+# Wallpapers for Arch Linux (3840 x 2400)
 
 🩵 I love Arch Linux, so I created some wallpapers.
 
